@@ -1,1 +1,1 @@
-"# UniversalCase" 
+# UniversalCase
